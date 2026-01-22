@@ -7,4 +7,3 @@ dependencies:
   - ipycanvas
   - ipywidgets
   - numpy
-  - matplotlib
