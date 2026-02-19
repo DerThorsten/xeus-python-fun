@@ -8,3 +8,6 @@ dependencies:
   - ipywidgets
   - numpy
   - scipy
+  - scikit-image
+  - networkx
+  - matplotlib
